@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/nandini_kokare" target="blank"><img src="https://img.shields.io/twitter/follow/nandini_kokare?logo=twitter&style=for-the-badge" alt="nandini_kokare" /></a> </p>
 
+- I'm currently in sophomore year of my undergraduate degree at ADYPU, Pune
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nandini_kokare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nandini_kokare" height="30" width="40" /></a>
