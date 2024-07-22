@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nandini Kokare</h1>
-<h3 align="center">Student | Web Developer Enthusiast |</h3>
+<h1 align="center">Hie 👋, I'm Nandini Kokare</h1>
+<h3 align="center">Student | Data Science Enthusiast |</h3>
 
 <p align="left"> <a href="https://twitter.com/nandini_kokare" target="blank"><img src="https://img.shields.io/twitter/follow/nandini_kokare?logo=twitter&style=for-the-badge" alt="nandini_kokare" /></a> </p>
 
-- I'm currently in sophomore year of my undergraduate degree at ADYPU, Pune
+- I'm currently in final year of my undergraduate degree at ADYPU, Pune
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
