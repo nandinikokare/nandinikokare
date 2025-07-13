@@ -1,5 +1,5 @@
 <h1 align="center">Hie 👋, I'm Nandini Kokare</h1>
-<h3 align="center">Computer Engineering graduate | 💻 Java | Python | SQL | Web Development | Data Analysis |</h3>
+<h3 align="center">Computer Engineering graduate | Java | Python | SQL | Web Development | Data Analysis |</h3>
 
 <p align="left"> <a href="https://twitter.com/nandini_kokare" target="blank"><img src="https://img.shields.io/twitter/follow/nandini_kokare?logo=twitter&style=for-the-badge" alt="nandini_kokare" /></a> </p>
 
